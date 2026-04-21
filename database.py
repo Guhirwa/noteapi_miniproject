@@ -1,3 +1,4 @@
+'''Database module with the in-memory storage, global counter and basic CRUD operations'''
 from datetime import datetime
 from typing import Dict, Optional, List
 
